@@ -8,7 +8,13 @@ Aplikasi penerimaan siswa baru SMK Bhakti Kencana Ciawi ini dibuat dikarenakan d
 
 
 Tampilan Menu Utama Pada CLI Aplikasi Sistem Penerimaan Siswa Baru SMK
+
+
+
+
 ![image](https://github.com/user-attachments/assets/1cdeff99-045b-4308-a137-4938bd1f7954)
+
+
 
 
 
