@@ -2,6 +2,9 @@
 APLIKASI SISTEM PENERIMAAN SISWA BARU SMK
 
 
+*maaf pak saya tidak mendapat kelompok karena kurangnya informasi, gadget handphone saya rusak.
+
+
 UNTUK MAIN CODE NYA BERADA DI APLIKASI SISTEM PENERIMAAN SISWA BARU/src/main.rs
 
 
