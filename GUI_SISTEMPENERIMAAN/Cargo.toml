@@ -1,0 +1,8 @@
+[package]
+name = "GUI_SISTEMPENERIMAAN"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gtk4 = "0.4"
+glib = "0.10"
